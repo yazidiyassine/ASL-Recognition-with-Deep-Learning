@@ -19,11 +19,6 @@ Clone this repository to your local machine.
 ## Results
 The trained ASL recognition model achieves good accuracy on the ASL Alphabet dataset.
 
-## Contributing
-Contributions are welcome! Feel free to open issues and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
 
 ---
 
